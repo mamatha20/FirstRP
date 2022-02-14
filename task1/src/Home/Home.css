@@ -1,0 +1,27 @@
+.homepage{
+    
+    background-color:black;
+}
+.main{
+    
+    position: relative;
+    right: 312px;
+}
+.contain{
+    position: absolute;
+}
+.green-box {
+    padding: 28px 16px 2px;
+    position: absolute;
+    background: #00b852;
+    width: 40%;
+    left: 970px;
+    text-align: center;
+    
+    border-radius: 8px;
+    top: 215px;
+    bottom: 1135px;
+    height: 350px;
+    
+  }
+  
